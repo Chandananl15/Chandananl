@@ -1,16 +1,74 @@
 ## Hi there 👋 I'm Chandana
-🚀 Passionate about AI, ML, Software Development, and System Design  
 
-💻 Skills: Python | C++ | Java(basic) | Flask | Docker | Kubernetes | TensorFlow | Django | scikit-learn | MySQL | 
+👩‍💻 Software Developer | ML Enthusiast | DevOps Learner 
+🚀 Passionate about Software Development, Machine Learning, and System Design.
+I love building real-world projects, solving problems, and continuously learning new technologies.
 
-📂 Projects: [Movie Recommender], [ISL Translator], [Obesity Risk Preditor]  
+
+🚀 Tech Stack
+💻 Programming
+
+
+
+
+
+
+
+
+🌐 Web & Frameworks
+
+
+
+
+
+
+
+
+🗄 Databases
+
+⚙️ DevOps & Tools
+
+
+
+
+
+
+
+
+
+
+📊 Data Science & ML
+
+
+
+
+
+
+
+
+
+
+
+
+📂 Featured Projects
+
+🔹 Movie Recommendation System
+ – Content-based recommender using Python, Flask, Scikit-learn, Streamlit.
+
+🔹 Indian Sign Language Translator
+ – Real-time ISL translation using Python, OpenCV, Mediapipe, TensorFlow.
+
+🔹 Obesity Risk Prediction
+ – End-to-end ML pipeline using Flask, Pandas, XGBoost.
+
+ 📊 GitHub Stats
+
+
+
+
+
 
 🌐 Connect: [LinkedIn](https://www.linkedin.com/in/chandu15/) | [Portfolio](https://chandanaportfoli.netlify.app/#)
 
 
-## 🎬 Movie Recommendation System
-A content-based recommender built with Python & Scikit-learn.
-
-![demo](./demo.gif)
-
-**Tech Stack:** Python, Flask, Scikit-learn, HTML, CSS
+##✨ “Code. Learn. Build. Repeat.”
