@@ -16,7 +16,7 @@ Fresher, B.Tech CSE, looking for full-time and remote roles where I can do exact
 **Obesity Risk Prediction — End-to-End ML Pipeline**
 Built and deployed a classification pipeline on 1,000+ health records, ~90% accuracy across 10 predictive features. Wired it up to a Flask API for real-time predictions — the part most student projects stop short of.
 `Python` `Pandas` `Scikit-learn` `Flask`
-🔗 *[add repo link here]*
+🔗 *https://github.com/Chandananl15/Obesity-Risk-Prediction-An-end-to-end-ML-Pipeline*
 
 **Indian Sign Language Translation System**
 Built during a national-level hackathon: real-time gesture recognition trained on 1,000+ samples, ~80% accuracy across 10 gestures, running live off a webcam using computer vision and deep learning.
