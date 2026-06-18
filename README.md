@@ -33,7 +33,7 @@ Fresher, B.Tech CSE, looking for full-time and remote roles where I can do exact
 **Obesity Risk Prediction — End-to-End ML Pipeline**
 Built and deployed a classification pipeline on 1,000+ health records, ~90% accuracy across 10 predictive features. Wired it up to a Flask API for real-time predictions — the part most student projects stop short of.
 `Python` `Pandas` `Scikit-learn` `Flask`
-🔗 *[add repo link here]*
+🔗 [Obesity-Risk-Prediction-An-end-to-end-ML-Pipeline](https://github.com/Chandananl15/Obesity-Risk-Prediction-An-end-to-end-ML-Pipeline)
 
 **Indian Sign Language Translation System**
 Built during a national-level hackathon: real-time gesture recognition trained on 1,000+ samples, ~80% accuracy across 10 gestures, running live off a webcam using computer vision and deep learning.
@@ -43,16 +43,12 @@ Built during a national-level hackathon: real-time gesture recognition trained o
 **Multi-Language Code Generation with Semantic Consistency**
 Cross-language code translation system across 3 programming languages using AST-based semantic analysis — ~70% translation accuracy across 10+ evaluation programs. Built with a 4-person team.
 `Python` `AST` `Semantic Analysis`
-🔗 *[add repo link here]*
+🔗 [Code-Translator](https://github.com/Chandananl15/Code-Translator)
 
 **User Registration & Authentication System**
 Full registration/login/profile/CRUD system with a relational schema spanning 3 application modules — the unglamorous backend plumbing that makes the rest of this work production-ready.
 `Python` `SQLite` `SQL`
-🔗 *[add repo link here]*
-
-## GitHub Activity
-
-![snake](https://raw.githubusercontent.com/Chandananl15/Chandananl/output/github-contribution-grid-snake-dark.svg)
+🔗 [user_registration_project](https://github.com/Chandananl15/user_registration_project)
 
 ## Let's talk
 
