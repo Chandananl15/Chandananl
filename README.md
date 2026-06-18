@@ -26,12 +26,12 @@ Built during a national-level hackathon: real-time gesture recognition trained o
 **Multi-Language Code Generation with Semantic Consistency**
 Cross-language code translation system across 3 programming languages using AST-based semantic analysis — ~70% translation accuracy across 10+ evaluation programs. Built with a 4-person team.
 `Python` `AST` `Semantic Analysis`
-🔗 *[add repo link here]*
+🔗 *https://github.com/Chandananl15/Code-Translator*
 
 **User Registration & Authentication System**
 Full registration/login/profile/CRUD system with a relational schema spanning 3 application modules — the unglamorous backend plumbing that makes the rest of this work production-ready.
 `Python` `SQLite` `SQL`
-🔗 *[add repo link here]*
+🔗 *https://github.com/Chandananl15/user_registration_project*
 
 ## Skills
 
